@@ -1,0 +1,5 @@
+{
+  "name": "ClipVibe",
+  "description": "A web application to help short video creators quickly find suitable background music. Users describe their video's topic, story, and desired mood, and the app generates a list of music recommendations with previews and bookmarking functionality.",
+  "requestFramePermissions": []
+}
